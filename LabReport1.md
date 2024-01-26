@@ -4,7 +4,7 @@
 
 ### Case 1 - No argument
 When you use the `cd` command wihtout an arguments it does nothing, as you are trying to change directory to nothing.
-The directory stays the same. The working directory at this time was /home. I don't think this was an error either.
+The directory stays the same. The working directory at this time was /home. I don't think this was an error either. Alright, upon further investigation I have found that when you run cd with no argument when in a random directory that is not the home directory, it sends you straight back to the home directory, pretty interesting.
 
 ![Image](11.png)
 
@@ -27,13 +27,13 @@ returned `bash: cd: lecture1/Hello.java: Not a directory`. The working directory
 
 ### Case 1 - No argument
 When you run the `ls` command with no argument, it lists all the files and folders in the current directory as shown in the
-picture below. The working directory was /home/lecture1.
+picture below. The working directory was /home/lecture1. This is not an error
 
 ![Image](44.png)
 
 ### Case 2 - Path to a directory as argument
 When you run the `ls` command with a path to a directory as an argument it lists all the files and folders in the directory
-that the path leads to. The working directory was /home.
+that the path leads to. The working directory was /home. This is not an error.
 
 ![Image](55.png)
 
@@ -48,18 +48,18 @@ image below. The working directory was /home. I don't think this was an error ei
 ### Case 1 - No argument
 When you run `cat` with no argument what happens is very weird as it doesn't run and keeps the kernel frozen. Get out of
 this situation with Ctrl + C. The image below shows the situation. The working directory was /home. I do not think this
-was an error but it was still weird.
+was an error but it was still weird. After further research, I have discovered that running cat without an argument makes it appear like it is hanging but it reproduces anything that the user inputs to try to interact with it.
 
 ![Image](77.png)
 
 ### Case 2 - Path to a directory as argument
 When yo urun `cat` with a path to a directory as an argument it just says that the directory that the path leads to is a 
-directory as shown in the image below. The working directory was /home.
+directory as shown in the image below. The working directory was /home. I do not think this was an error, it is a clarification of what the cat command cannot work with.
 
 ![Image](88.png)
 
 ### Case 3 - Path to a file as argument
 When you run `cat` with a path to a file as an argument then it displays the contents of the file that the path leads to
-as shown in the image below. The working directory was /home.
+as shown in the image below. The working directory was /home. This was not an error.
 
 ![Image](99.png)
