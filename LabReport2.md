@@ -25,7 +25,7 @@ After the second call, they are "user" and "Anonymous".
 The values of the chatHistory String is " " before calling the method, after I call it the first time it becomes "Sumeet: Hello". After calling it the second time it becomes "Sumeet: Hello /n Anonymous: Wassup".
 
 ## Part 2
-You can see the absolute path to the private key for my SSH key for logging into ieng6 in the following screenshot:
+You can see the absolute path to the private key for my SSH key for logging into ieng6 in the following screenshot, the path is: C:\Users\saisd/.ssh/id_rsa
 
 ![Image](lll.png)
 
