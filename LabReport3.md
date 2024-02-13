@@ -12,7 +12,7 @@ The above image shows the failure inducing input as a Junit test.
 
 The above image shows an input which does not fail as a Junit test.
 
-![Image](www.png)
+![Image](www1.png)
 
 The above image shows the symptom of the bug.
 
