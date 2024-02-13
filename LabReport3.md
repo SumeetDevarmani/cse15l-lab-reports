@@ -54,7 +54,7 @@ Output - `911report
 Example 2: 
 Input - `find biomed`
 Output - There are way too many files to list them all here. Ultimately, it just listed all of the files in biomed. I'll still attach a screenshot just in case.
-![Image](xxx.png)
+![Image](image_2024-02-13_150344645.png)
 
 ### `find -type <<type>>`
 This command line option specifies the type of file to search for. For example, f for regular files. The two instances of me using it are below.
