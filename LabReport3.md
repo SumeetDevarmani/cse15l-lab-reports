@@ -16,11 +16,11 @@ The above image shows an input which does not fail as a Junit test.
 
 The above image shows the symptom of the bug.
 
-![Image](w.png)
+![Image](x.png)
 
 The above image shows the code before the change that should be made to fix the bug. The image below shows the image after the change has been made.
 
-![Image](x.png)
+![Image](w.png)
 
 The change resolves this problem since the original code attempted to assign values that were already reversed to the end of the array from the beginning, leaving the values in the second half of the array unchanged. To ensure that none of the original values were altered before the whole array was reversed, I created a temporary array to retain the reversed values before inserting them into the argument array.  
 
