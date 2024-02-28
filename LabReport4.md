@@ -1,7 +1,7 @@
 # Lab Report 4
 
 I began by opening a terminal in the EdStem workspace. Then I logged into ieng6 as shown in the screenshot below.
-Keys pressed: <s><s><h><space><s><d><e><v><a><r><m><a><n><i><@><i><e><n><g><6><.><u><c><s><d><.><e><d><u><enter>. To log into ieng6.
+Keys pressed: `<s><s><h><space><s><d><e><v><a><r><m><a><n><i><@><i><e><n><g><6><.><u><c><s><d><.><e><d><u><enter>`. To log into ieng6.
 
 ![Image](e1.png)
 
