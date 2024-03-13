@@ -27,5 +27,5 @@ Keys pressed: `<up><up><up><up><enter>`. The `bash test.sh` command was 4 up in 
 
 Lastly, I committed and pushed the resulting change to my Github account as shown below in the screenshot.
 
-![Image](e6.png)
+![Image](oo5.png)
 
