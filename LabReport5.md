@@ -16,13 +16,17 @@ TA: You're welcome. Let me know if you need anymore help in the future.
 
 ### Required information at the end
 Screenshot before the file was fixed:
+
 ![Image](oo1.png)
+
 Command line ran to trigger the bug: bash test.sh
+
 Description of what is to be edited to fix the bug:
 In line 44 index1 should be changed to index2 as shown in the pictures below.
+
 ![Image](oo1.png) ![Image](oo2.png)
 
-##Part 2
+## Part 2
 Throughout the second half of these lab reports, the most interestng thing that I have learned would be how to properly use VIM. We were only supposed to do the the first two parts of the VIM tutorial, but I finished all of it because it was really interesting. Now, I can condidently edit and make any changes I want to any file faster than before by using VIM. I'm really grateful that I learned this skill.
 
 
